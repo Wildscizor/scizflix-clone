@@ -35,7 +35,7 @@ const BrowsePage: React.FC<BrowsePageProps> = ({ user, onLogout }) => {
           id: 1,
           title: "Stranger Things",
           description: "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
-          image: "/assets/strangerthings.jpg",
+          image: "/assets/strangerthings.png",
           rating: "TV-14",
           year: 2016,
           genre: "Sci-Fi"
@@ -44,7 +44,7 @@ const BrowsePage: React.FC<BrowsePageProps> = ({ user, onLogout }) => {
           id: 2,
           title: "The Crown",
           description: "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
-          image: "/assets/thecrown.jpg",
+          image: "/assets/thecrown.png",
           rating: "TV-MA",
           year: 2016,
           genre: "Drama"
